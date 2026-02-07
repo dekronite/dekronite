@@ -1,9 +1,9 @@
 
 #  **dekronite**  
 
-[![Followers](https://img.shields.io/github/followers/dekronite?style=social)](https://github.com/vxidyn)  
-[![Stars](https://img.shields.io/github/stars/dekronite?style=social)](https://github.com/vxidyn)  
-[![Profile Views](https://komarev.com/ghpvc/?username=dekronite&color=blueviolet)](https://github.com/vxidyn)
+[![Followers](https://img.shields.io/github/followers/dekronite?style=social)](https://github.com/dekronite)  
+[![Stars](https://img.shields.io/github/stars/dekronite?style=social)](https://github.com/dekronite)  
+[![Profile Views](https://komarev.com/ghpvc/?username=dekronite&color=blueviolet)](https://github.com/dekronite)
 
 
 ### Languages I know/learning
