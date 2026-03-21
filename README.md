@@ -19,3 +19,4 @@
 ### 🐍 Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/dekrypted/dekrypted/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+Currently making a text editor in c++ aiming first release for september of 2026
