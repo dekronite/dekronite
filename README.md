@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,c,cs,python,html,css,bash,vim,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,c,cs,html,css,bash,vim,vscode,git" />
 </p>
 
 <br>
