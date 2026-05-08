@@ -1,22 +1,75 @@
+<h1 align="center">dekronite</h1>
 
-#  **dekronite**  
+<p align="center">
+  linux • arch/artix • void • low-level coding • game dev
+</p>
 
-[![Followers](https://img.shields.io/github/followers/dekronite?style=social)](https://github.com/dekronite)  
-[![Stars](https://img.shields.io/github/stars/dekronite?style=social)](https://github.com/dekronite)  
-[![Profile Views](https://komarev.com/ghpvc/?username=dekronite&color=blueviolet)](https://github.com/dekronite)
+<p align="center">
+  <a href="https://github.com/dekronite">
+    <img src="https://img.shields.io/github/followers/dekronite?style=for-the-badge&color=1793D1&labelColor=0d1117" alt="Followers">
+  </a>
+
+  <a href="https://github.com/dekronite">
+    <img src="https://img.shields.io/github/stars/dekronite?style=for-the-badge&color=FFD43B&labelColor=0d1117" alt="Stars">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=dekronite&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch,c,cs,python,html,css,bash,vim,vscode,git" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artixlinux&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/Void_Linux-478061?style=for-the-badge&logo=voidlinux&logoColor=white">
+</p>
+
+<br>
+
+<h2 align="center">currently learning</h2>
+
+<p align="center">
+  C • C# • low-level programming • operating systems • game development
+</p>
 
 
-### Languages I know/learning
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-### planning to learn for game dev 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+<h2 align="center">github stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dekronite&theme=tokyonight" />
+
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dekronite&theme=tokyonight" />
+</p>
 
 
 
+<h2 align="center">extra stats</h2>
 
-![snake gif](https://raw.githubusercontent.com/dekrypted/dekrypted/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dekronite&theme=tokyonight" />
 
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dekronite&theme=tokyonight&utcOffset=0" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
+
+  <img src="https://img.shields.io/badge/OS-Artix-10A0CC?style=flat-square&logo=artixlinux&logoColor=white">
+
+  <img src="https://img.shields.io/badge/OS-Void-478061?style=flat-square&logo=voidlinux&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Init-runit-6C78AF?style=flat-square">
+
+  <img src="https://img.shields.io/badge/Shell-bash-89E051?style=flat-square&logo=gnu-bash&logoColor=black">
+
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+</p>
