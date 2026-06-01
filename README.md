@@ -1,7 +1,7 @@
 <h1 align="center">dekronite</h1>
 
 <p align="center">
-  linux • arch/artix • void • low-level coding • game dev
+  linux • arch • void • low-level coding • game dev
 </p>
 
 <p align="center">
@@ -23,12 +23,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artixlinux&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/Void_Linux-478061?style=for-the-badge&logo=voidlinux&logoColor=white">
-</p>
 
 <br>
 
@@ -62,8 +56,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
-
-  <img src="https://img.shields.io/badge/OS-Artix-10A0CC?style=flat-square&logo=artixlinux&logoColor=white">
 
   <img src="https://img.shields.io/badge/OS-Void-478061?style=flat-square&logo=voidlinux&logoColor=white">
 
