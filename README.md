@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,c,cs,html,css,bash,vim,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,c,cs,bash,vscode,git" />
 </p>
 
 <br>
@@ -32,8 +32,6 @@
   C • C# • low-level programming • operating systems • game development
 </p>
 
-
-
 <h2 align="center">github stats</h2>
 
 <p align="center">
@@ -41,8 +39,6 @@
 
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dekronite&theme=tokyonight" />
 </p>
-
-
 
 <h2 align="center">extra stats</h2>
 
