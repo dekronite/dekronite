@@ -61,3 +61,6 @@
 
   <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
+<p align="center">
+i have a discord server : https://discord.gg/WUp6Z7eZa
+</p>
