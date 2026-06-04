@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/dekronite">
-    <img src="https://img.shields.io/github/followers/dekronite?style=for-the-badge&color=1793D1&labelColor=0d1117" alt="Followers">
+    <img src="https://img.shields.io/badge/FOLLOWERS-8-1793D1?style=for-the-badge&labelColor=0d1117" alt="Followers">
   </a>
 
   <a href="https://github.com/dekronite">
